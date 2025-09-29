@@ -1,4 +1,4 @@
-# 💳 Financial Fraud & Revenue Leakage Analysis | MySQL, Power BI
+# 💳 Financial Transactions Analysis | MySQL, Power BI
 
 ## 📌 Project Overview
 Analyzed **10,000+ financial transactions (₹56.38M total value)** to detect fraud, chargebacks, and revenue leakage.  
